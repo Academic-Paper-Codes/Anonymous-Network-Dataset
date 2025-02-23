@@ -1,0 +1,15 @@
+all-pairs-rtts.csv
+==================
+From the ACM IMC 2015 paper 'Ting: Measuring and Exploiting Latencies Between All
+Tor Nodes' (http://www.cs.umd.edu/projects/ting/).  Contains the latencies
+between all pairs of 50 Tor nodes.
+
+relays-details.json
+====================
+Also from the Ting project.  Describes the 50 Tor nodes.
+
+TM_WORLD_BORDERS-0.3.csv
+========================
+World map file that can be loaded by shapely
+
+Other files are used only for simulation experiments
